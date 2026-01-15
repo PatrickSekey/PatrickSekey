@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science student currently focused on **backend development** while also exploring **computer vision** through research and practical projects. I enjoy building things that work, learning progressively, and improving my understanding of real-world software systems.
+I'm a Computer Science Engineering student currently focused on **backend development**, **Cybersecurity** while also exploring **computer vision** through research and practical projects. I enjoy building things that work, learning progressively, and improving my understanding of real-world software systems.
 
 ---
 
@@ -22,7 +22,7 @@ I'm a Computer Science student currently focused on **backend development** whil
 
 - **Backend:** Java, Spring Boot, Node.js, Express  
 - **AI / CV:** Python, PyTorch, OpenCV  
-- **DB:** PostgreSQL, MySQL  
+- **DB:** MongoDB, MySQL  
 - **Tools:** Git, Docker, Linux, IntelliJ  
 
 ---
