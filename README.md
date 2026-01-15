@@ -39,9 +39,9 @@ I'm a Computer Science Engineering student currently focused on **backend develo
 ### ✉️ Contact
 
 **Email:** patrick.sekey.ps@gmail.com
-<p align ="left">
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/patrick-wah-sekey-27019a1b3)
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-wah-sekey-27019a1b3/)
+
 ---
 
 ### 🧰 Tech Stack
